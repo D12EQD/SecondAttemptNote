@@ -11,3 +11,5 @@
 
 # 确保 .gitignore 本身被跟踪
 !.gitignore
+
+!*.png
