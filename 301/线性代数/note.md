@@ -229,3 +229,28 @@ $$
 \operatorname{rank}(A + B) \le \operatorname{rank}(A) + \operatorname{rank}(B)
 $$
 
+## 8.几何图像——单/双曲线
+
+可这样记忆：
+
+### 单叶双曲面
+
+$$
+x^2 + y^2 - z^2 = 1
+$$
+
+固定 $z$ 可以发现每次固定得到的都是一个椭圆
+
+固定 $x$ 或者 $y$ 得到的都是双曲面
+
+### 双叶双曲面
+
+$$
+x^2 - y^2 - z^2 = 1
+$$
+
+固定 $x$ 有可能导致等式不成立
+
+固定 $y$ 或者 $z$ 都是双曲面
+
+![](/home/ping/Second_Attempt/301/线性代数/assets/2.87.jpg)
