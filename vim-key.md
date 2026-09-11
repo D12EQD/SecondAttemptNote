@@ -1,0 +1,1 @@
+/home/ping/.config/nvim/key.md
